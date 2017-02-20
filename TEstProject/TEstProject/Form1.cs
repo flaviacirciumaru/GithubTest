@@ -16,5 +16,9 @@ namespace TEstProject
         {
             InitializeComponent();
         }
+        public void GetData(string text)
+        {
+            //anything
+        }
     }
 }
